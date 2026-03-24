@@ -12,7 +12,7 @@ This repository contains my deliverables for the CSE0001 Digital Literacy course
 * **Module 1: Visual Communication** Contains an infographic designed to educate peers on core digital literacy concepts and safe internet practices.
 * **Module 2: Professional Digital Footprint** Documents the establishment of my professional profiles across GitHub, LinkedIn, and Kaggle.
 * **Module 3: Coding & Collaboration** Exploration of coding environments via HackerRank and cloud collaboration tools. 
-  * 🔗 **[Link to my Digital Literacy Awareness Quiz ([Google Forms](https://forms.gle/xGWkUj2yqDf8CbM96))](#)** *(<-- Paste your actual form link here)*
+  * 🔗 **[Link to my Digital Literacy Awareness Quiz ([Google Forms](https://forms.gle/xGWkUj2yqDf8CbM96))](#)** 
 * **Module 4: Email Etiquette** Includes professional email drafts for academic and industry scenarios, alongside a checklist for responsible social media usage.
 * **Module 5: Cybercrime Awareness** Features a case study focusing on UPI payment fraud, accompanied by an actionable prevention checklist for college students.
 
