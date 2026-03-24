@@ -17,4 +17,4 @@ This repository contains my deliverables for the CSE0001 Digital Literacy course
 * **Module 5: Cybercrime Awareness** Features a case study focusing on UPI payment fraud, accompanied by an actionable prevention checklist for college students.
 
 ## Repository Structure
-All associated files, platform screenshots, and the final written project report (.pdf/.docx) can be found in their respective folders within this repository.
+All associated files, platform screenshots, and the final written project report (.pdf) can be found in their respective folders within this repository.
